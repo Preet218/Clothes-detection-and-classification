@@ -6,3 +6,4 @@ Converted the existing metadata in json format to Detectron2 accepted COCO forma
 
 Trained the COCO-InstanceSegmentation model on the preprocessed data for 1000 iterations.
 
+The model is able to detect 11 different types of clothes.
